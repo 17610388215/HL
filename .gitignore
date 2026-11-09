@@ -15,6 +15,11 @@ build/
 
 # Tests and coverage
 coverage/
+*.tsbuildinfo
+
+# Codex working files and user-facing previews
+work/
+outputs/
 
 # Logs
 *.log
